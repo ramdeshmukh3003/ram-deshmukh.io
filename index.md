@@ -1,5 +1,5 @@
 
-# 🚀 Ram Deshmukh | Software Developer ![alt text](https://cdn-icons-png.flaticon.com/64/10856/10856864.png)
+# 🚀 Ram Deshmukh | Software Developer 👨‍💼
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramdeshmukh87-blue?logo=linkedin)](https://linkedin.com/in/ramdeshmukh87) [![GitHub](https://img.shields.io/badge/GitHub-ramdeshmukh3003-black?logo=github)](https://github.com/ramdeshmukh3003)  
 📧 [ramdeshmukh3003@gmail.com](mailto:ramdeshmukh3003@gmail.com) | 📞 +91-9309818029
