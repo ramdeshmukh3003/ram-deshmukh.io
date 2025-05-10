@@ -1,116 +1,121 @@
-# The Minimal theme
 
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/minimal/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+# 🚀 Ram Deshmukh | Software Developer 🤵
 
-*Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramdeshmukh87-blue?logo=linkedin)](https://linkedin.com/in/ramdeshmukh87) [![GitHub](https://img.shields.io/badge/GitHub-ramdeshmukh3003-black?logo=github)](https://github.com/ramdeshmukh3003)  
+📧 [ramdeshmukh3003@gmail.com](mailto:ramdeshmukh3003@gmail.com) | 📞 +91-9309818029
 
-![Thumbnail of Minimal](thumbnail.png)
+---
 
-## Usage
+### 💻 [“Code is the silent architect of the future — building dreams, one function at a time.”](https://ramdeshmukh3003.github.io/ram-deshmukh.io)
 
-To use the Minimal theme:
+---
 
-1. Add the following to your site's `_config.yml`:
+## 👨‍💻 About Me
 
-    ```yml
-    remote_theme: pages-themes/minimal@v0.2.0
-    plugins:
-    - jekyll-remote-theme # add this line to the plugins list if you already have one
-    ```
 
-2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
+I’m a passionate **Software Developer** , **Code-Enthusiast** and **Problem Solver** pursuing a **Bachelor of Engineering in Computer Engineering**.\
+With hands-on experience in building scalable web applications and solving 500+ Data Structures and Algorithms problems, I specialize in creating efficient, user-friendly, and performance-optimized digital solutions.
 
-    ```ruby
-    gem "github-pages", group: :jekyll_plugins
-    ```
+Driven by curiosity and innovation, I enjoy transforming ideas into reality using code and design.
 
-## Customizing
+---
 
-### Configuration variables
+## 🛠️ Technical Skills
 
-Minimal will respect the following variables, if set in your site's `_config.yml`:
+- 🧩 **Frontend:** React.js, TailwindCSS, DaisyUI, Material-UI, ShadCN
+- 🛠️ **Backend:** Node.js, Express.js
+- 🛢️ **Databases & Cloud:** MongoDB, MySQL, Firebase, AWS
+- 💻 **Languages:** C, C++, JavaScript, Java, Python
+- 🔧 **Version Control:** Git, GitHub
+- 📘 **Coursework:** Data Structures and Algorithms, Database Management Systems, Operating Systems
 
-```yml
-title: [The title of your site]
-description: [A short description of your site's purpose]
-```
+---
 
-Additionally, you may choose to set the following optional variables:
+## 🏆 Achievements
 
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
+- 🥈 Silver Medalist - National Science Olympiad (NSO) at School Level
+- ⭐ 5-Star C++ Developer - HackerRank
+- ⭐ 3-Star Rated Coder - GeeksforGeeks
+- 🔥 200-Day LeetCode Problem Solving Streak
+- 📈 Ranked Top 5 in Institute Rank - GeeksforGeeks
+- 💻 Solved 500+ DSA problems across LeetCode, GeeksforGeeks, and CodeChef
 
-### Stylesheet
+---
 
-If you'd like to add your own custom styles:
+## 💼 Internships
 
-1. Create a file called `/assets/css/style.scss` in your site
-2. Add the following content to the top of the file, exactly as shown:
-    ```scss
-    ---
-    ---
+**Full-Stack Developer** | *Arohi Softwares*\
+*August 2024 – November 2024*
 
-    @import "{{ site.theme }}";
-    ```
-3. Add any custom CSS (or Sass, including imports) you'd like immediately after the `@import` line
+- Engineered full-stack web applications using **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
+- Enhanced performance by optimizing React components, reducing code complexity by 30% and duplication by 20%.
+- Streamlined team workflows by authoring clear technical documentation, improving efficiency by 25%.
+- Revamped user interfaces and designed responsive, dynamic forms using **Material-UI** and **TailwindCSS**.
+- Improved API response times by 40% through backend optimizations and database query refinements.
 
-*Note: If you'd like to change the theme's Sass variables, you must set new values before the `@import` line in your stylesheet.*
+---
 
-### Layouts
+## 🚀 Projects
 
-If you'd like to change the theme's HTML layout:
+### 🌍 [WanderWise - AI-Powered Personal Travel Architect](https://wander-wise-lemon.vercel.app)
 
-1. For some changes such as a custom `favicon`, you can add custom files in your local `_includes` folder. The files [provided with the theme](https://github.com/pages-themes/minimal/tree/master/_includes) provide a starting point and are included by the [original layout template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html).
-2. For more extensive changes, [copy the original template](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) from the theme's repository<br />(*Pro-tip: click "raw" to make copying easier*)
-3. Create a file called `/_layouts/default.html` in your site
-4. Paste the default layout content copied in the first step
-5. Customize the layout as you'd like
+- ✨ **Full-Stack Development:** Built an end-to-end AI-powered trip planning platform using **React.js**, **Firebase**, and **Google Generative AI**.
+- 📍 **Dynamic Place Fetching:** Integrated **Google Places API** for fetching hotels, tourist attractions, and restaurants in real-time.
+- 🔒 **Secure Authentication:** Implemented **Google OAuth** for seamless and secure user login.
+- ⌛ **Real-time Synchronization:** Used **Firestore** to sync trip data instantly across devices.
+- 🌍 **Responsive UI:** Designed a clean, interactive interface with **TailwindCSS**, optimizing user experience across mobile and web.
+- 🔄 **AI Recommendations:** Integrated personalized trip suggestions using AI models to tailor trips based on user preferences.
 
-### Customizing Google Analytics code
+### 🧠 [Easy Employee – Smart Employee & Team Management System](https://github.com/ramdeshmukh3003/EMSI.git)
 
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
+A powerful and scalable Employee Management System built using the **MERN stack (MongoDB, Express.js, React, Node.js)**. Designed to streamline HR operations, manage employees, and enhance internal communication across roles like Admin, Leader, and Employee.
 
-### Overriding GitHub-generated URLs
 
-Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
+- 👥 **Role-Based Access Control:** Manage user permissions and flows for Admins, Leaders, and Employees with a secure and flexible system.
+- 🧒 **Attendance & Leave Management:** Track daily attendance, apply for leaves, and manage approval status efficiently.
+- 💸 **Salary & Team Management:** Assign salaries, manage teams, add/remove members or leaders, and monitor overall team performance.
+- 🔐 **Secure Auth System:** Integrated **JWT-based authentication**, refresh tokens, password recovery via email, and user account management.
+- 📊 **Clean UI Dashboards:** Sleek and user-friendly dashboards built with **React** and **TailwindCSS** for a modern experience.
 
-1. Look at [the template source](https://github.com/pages-themes/minimal/blob/master/_layouts/default.html) to determine the name of the variable. It will be in the form of `{{ site.github.zip_url }}`.
-2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
-    ```yml
-    github:
-      zip_url: http://example.com/download.zip
-      another_url: another value
-    ```
-3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
 
-*Note: You must remove the `site.` prefix, and each variable name (after the `github.`) should be indent with two space below `github:`.*
+### 🌟 [Startup Nexus - AI Powered Startup Growth & Investor Matchmaking Platform](https://github.com/ramdeshmukh3003/StartupForage.git)
 
-For more information, see [the Jekyll variables documentation](https://jekyllrb.com/docs/variables/).
+- 👩‍💼 **Founder-Investor Platform:** Built a full-stack platform for startups to connect with potential investors and mentors.
+- ✨ **Real-Time Notifications:** Implemented live updates for matches and funding opportunities.
+- 🌟 **Smart Matching Algorithms:** Designed AI-powered matching engine based on startup profile and investor interests.
+- 🌐 **Modern UI:** Created sleek dashboards and professional profile management using **TailwindCSS**.
+- 🔍 **Search & Filter:** Enabled advanced search features for startups and investors.
 
-## Roadmap
+### 👨‍💻 [DevTinder - Developer Collaboration Networking App](https://www.devtinder.com)
 
-See the [open issues](https://github.com/pages-themes/minimal/issues) for a list of proposed features (and known issues).
+- 🚀 **Swipe to Connect:** Designed a Tinder-style app for developers to find project partners.
+- 💡 **Real-Time Matching:** Used **Socket.IO** for live connections and chat.
+- ✨ **Profile Management:** Users can create dynamic tech stack profiles, preferences, and skill-based matches.
+- 💚 **Built with Love:** MERN stack + TailwindCSS + JWT Authentication.
+- 🔐 **Secure Onboarding:** Integrated OAuth login options and secure API communication.
 
-## Project philosophy
+---
 
-The Minimal theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
+## 🌟 Leadership & Extracurriculars
 
-## Contributing
+- 🏅 Led college-level events with 200+ participants, organizing workshops and hackathons.
+- 🧪 Active member of **CESA (Computer Engineering Student Association)**, coordinating technical initiatives and events.
 
-Interested in contributing to Minimal? We'd love your help. Minimal is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
+---
 
-### Previewing the theme locally
+## 📢 Let's Connect!
 
-If you'd like to preview the theme locally (for example, in the process of proposing a change):
+- 📧 **Email:** [ramdeshmukh3003@gmail.com](mailto:ramdeshmukh3003@gmail.com)  
+- 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramdeshmukh87-blue?logo=linkedin)](https://linkedin.com/in/ramdeshmukh87)
+- 🔠 **GitHub:** [![GitHub](https://img.shields.io/badge/GitHub-ramdeshmukh3003-black?logo=github)](https://github.com/ramdeshmukh3003)
+- 🌐 **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-ram--deshmukh.io-0A66C2?logo=internet-explorer&logoColor=white)](https://ramdeshmukh3003.github.io/ram-deshmukh.io)  
+- 📄 **Resume:** [![Resume](https://img.shields.io/badge/Resume-Download-green?logo=google-drive&logoColor=white)](https://surl.li/cghhwg)
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+---
 
-### Running tests
+*— Always eager to collaborate, innovate, and drive impactful solutions. Let's build something amazing together!* 🚀
 
-The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+---
+
+#⃣ *Portfolio README optimized with impressive headings, project highlights, and modern professional ton created by Ram Deshmukh 🚀.*
+
