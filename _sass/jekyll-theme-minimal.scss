@@ -69,8 +69,8 @@ a:hover small {
 }
 
 .image {
-  height: 200px;
-  width: 200px;
+  height: 250px;
+  width: 250px;
 }
 
 blockquote {
@@ -137,7 +137,9 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-
+.downloads , .third-title-of {
+  margin-left: -10px;
+}
 ul.downloads {
   list-style:none;
   height:40px;
