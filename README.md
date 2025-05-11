@@ -1,5 +1,5 @@
 
-# 🚀 Ram Deshmukh | Software Developer 🤵
+# 🚀 Ram Deshmukh | Software Developer 👨‍💼
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramdeshmukh87-blue?logo=linkedin)](https://linkedin.com/in/ramdeshmukh87) [![GitHub](https://img.shields.io/badge/GitHub-ramdeshmukh3003-black?logo=github)](https://github.com/ramdeshmukh3003)  
 📧 [ramdeshmukh3003@gmail.com](mailto:ramdeshmukh3003@gmail.com) | 📞 +91-9309818029
@@ -66,7 +66,7 @@ Driven by curiosity and innovation, I enjoy transforming ideas into reality usin
 - 🌍 **Responsive UI:** Designed a clean, interactive interface with **TailwindCSS**, optimizing user experience across mobile and web.
 - 🔄 **AI Recommendations:** Integrated personalized trip suggestions using AI models to tailor trips based on user preferences.
 
-### 🧠 [Easy Employee – Smart Employee & Team Management System](https://github.com/ramdeshmukh3003/EMSI.git)
+### 🧠 [Easy Employee – Smart Employee & Team Management System](https://github.com/ramdeshmukh3003/EMS-I.git)
 
 A powerful and scalable Employee Management System built using the **MERN stack (MongoDB, Express.js, React, Node.js)**. Designed to streamline HR operations, manage employees, and enhance internal communication across roles like Admin, Leader, and Employee.
 
@@ -86,7 +86,7 @@ A powerful and scalable Employee Management System built using the **MERN stack 
 - 🌐 **Modern UI:** Created sleek dashboards and professional profile management using **TailwindCSS**.
 - 🔍 **Search & Filter:** Enabled advanced search features for startups and investors.
 
-### 👨‍💻 [DevTinder - Developer Collaboration Networking App](https://www.devtinder.com)
+### 👨‍💻 [DevTinder - Developer Collaboration Networking App](https://github.com/ramdeshmukh3003/Tindev.git)
 
 - 🚀 **Swipe to Connect:** Designed a Tinder-style app for developers to find project partners.
 - 💡 **Real-Time Matching:** Used **Socket.IO** for live connections and chat.
@@ -118,4 +118,3 @@ A powerful and scalable Employee Management System built using the **MERN stack 
 ---
 
 #⃣ *Portfolio README optimized with impressive headings, project highlights, and modern professional ton created by Ram Deshmukh 🚀.*
-
