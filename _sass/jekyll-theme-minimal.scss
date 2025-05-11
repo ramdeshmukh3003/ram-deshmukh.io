@@ -72,7 +72,9 @@ a:hover small {
   height: 250px;
   width: 250px;
 }
-
+.third-title-of , .fourth-title-of {
+  margin-left: 10px;
+}
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -137,7 +139,7 @@ header {
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
-.downloads , .third-title-of {
+.downloads {
   margin-left: -10px;
 }
 ul.downloads {
