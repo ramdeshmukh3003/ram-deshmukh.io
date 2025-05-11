@@ -39,6 +39,14 @@ a {
   text-decoration:none;
 }
 
+.title-of {
+  margin-left: 20px;
+}
+
+.second-title-of {
+  margin-top: 30px;
+}
+
 a:hover, a:focus {
   color:#069;
   font-weight: bold;
@@ -61,8 +69,8 @@ a:hover small {
 }
 
 .image {
-  height: 300px;
-  width: 300px;
+  height: 200px;
+  width: 200px;
 }
 
 blockquote {
